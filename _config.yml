@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: Wang6uem
+url: http://hw-wang.github.io/example/
+feed: /atom.xml
+author_info: <a href="http://hw-wang.github.io/example/">Wang6uem</a>
